@@ -1,0 +1,23 @@
+# 公开仓库 .gitignore（只放公开文件，源码在本地 git，永不 push 到这里）
+
+# 敏感文件
+release_config.txt
+master_private_key.pem
+kv_config.txt
+serial_counter.txt
+*.dat
+*.pem
+
+# 源码（永不公开）
+atools/
+run.py
+*.py
+tools/
+assets/
+版本/
+document/
+
+# 打包产物
+dist/
+build/
+Output/
