@@ -3,8 +3,19 @@
                      "测试更新提示",
                      "界面优化"
                  ],
-    "url":  "https://github.com/ChenLihsiang6/ATools/releases/latest",
     "version":  "v1.0.1",
+    "history":  [
+                    {
+                        "features":  [
+                                         "首个正式版本",
+                                         "离线激活授权",
+                                         "军团情报"
+                                     ],
+                        "version":  "v1.0",
+                        "release_date":  "2026-10-01"
+                    }
+                ],
     "release_date":  "2026-10-31",
+    "url":  "https://github.com/ChenLihsiang6/ATools/releases/latest",
     "notes":  "测试更新提示"
 }
